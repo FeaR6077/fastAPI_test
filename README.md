@@ -8,3 +8,8 @@ to run:
 ```
 uvicorn main:app --reload
 ```
+
+pages:
+
+/docs
+/redoc
