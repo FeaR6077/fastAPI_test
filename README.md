@@ -15,3 +15,7 @@ pages:
 
 /docs
 /redoc
+
+Heroku shit
+
+heroku ps:scale web=0
